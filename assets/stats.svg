@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="250" viewBox="0 0 720 250" role="img" aria-label="GitHub stats, all time">
+<style>
+:root{--bg:#ffffff;--border:#d0d7de;--fg:#1f2328;--muted:#59636e;--accent:#0969da}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--border:#30363d;--fg:#e6edf3;--muted:#9198a1;--accent:#4493f8}}
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.t{fill:var(--fg);font-size:18px;font-weight:600}
+.n{fill:var(--fg);font-size:24px;font-weight:600}
+.l{fill:var(--muted);font-size:12px}
+.g{fill:var(--fg);font-size:12px}
+</style>
+<rect x="0.5" y="0.5" width="719" height="249" rx="10" fill="var(--bg)" stroke="var(--border)"/>
+<text x="24" y="38" class="t">GitHub stats · all time</text>
+<text x="24" y="88" class="n">399</text>
+<text x="24" y="108" class="l">Contributions</text>
+<text x="136" y="88" class="n">379</text>
+<text x="136" y="108" class="l">Commits</text>
+<text x="248" y="88" class="n">5</text>
+<text x="248" y="108" class="l">Pull requests</text>
+<text x="360" y="88" class="n">0</text>
+<text x="360" y="108" class="l">PR reviews</text>
+<text x="472" y="88" class="n">20</text>
+<text x="472" y="108" class="l">Repositories</text>
+<text x="584" y="88" class="n">0</text>
+<text x="584" y="108" class="l">Issues</text>
+<text x="24" y="150" class="l">Most used languages</text>
+<clipPath id="bar"><rect x="24" y="162" width="672" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="24.00" y="162" width="583.53" height="10" fill="#3572A5"/>
+<rect x="607.53" y="162" width="68.20" height="10" fill="#f34b7d"/>
+<rect x="675.72" y="162" width="7.12" height="10" fill="#555555"/>
+<rect x="682.84" y="162" width="5.73" height="10" fill="#e16737"/>
+<rect x="688.58" y="162" width="4.74" height="10" fill="#3178c6"/>
+<rect x="693.32" y="162" width="2.68" height="10" fill="#DA3434"/>
+</g>
+<circle cx="29" cy="196" r="5" fill="#3572A5"/>
+<text x="40" y="200" class="g">Python <tspan class="l">86.8%</tspan></text>
+<circle cx="253" cy="196" r="5" fill="#f34b7d"/>
+<text x="264" y="200" class="g">C++ <tspan class="l">10.1%</tspan></text>
+<circle cx="477" cy="196" r="5" fill="#555555"/>
+<text x="488" y="200" class="g">C <tspan class="l">1.1%</tspan></text>
+<circle cx="29" cy="222" r="5" fill="#e16737"/>
+<text x="40" y="226" class="g">MATLAB <tspan class="l">0.9%</tspan></text>
+<circle cx="253" cy="222" r="5" fill="#3178c6"/>
+<text x="264" y="226" class="g">TypeScript <tspan class="l">0.7%</tspan></text>
+<circle cx="477" cy="222" r="5" fill="#DA3434"/>
+<text x="488" y="226" class="g">CMake <tspan class="l">0.4%</tspan></text>
+</svg>
