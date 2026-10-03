@@ -122,11 +122,11 @@
 ### 📌 Featured
 
 - [**skycoat**](https://github.com/simaygoktug/skycoat): *MSc thesis.* Autonomous facade-climbing robot for high-rise painting, with semantic segmentation, closed-loop coverage planning, wall-plane state estimation, fail-safe interlocks and fault injection in ROS 2 + Gazebo
-- [**robotics_and_control**](https://github.com/simaygoktug/robotics_and_control): Hybrid fuzzy-logic + PID navigation for a real mobile robot with 2D LiDAR, covering obstacle avoidance, wall following, corner turning and SLAM / AMCL
+- [**robotics_and_control**](https://github.com/simaygoktug/robotics_and_control): ROS 2 fuzzy-logic and PID navigation with 2D LiDAR, Cartographer SLAM, AMCL, A* / RRT planning and pure pursuit on TurtleBot3
 - [**mot**](https://github.com/simaygoktug/mot): ByteTrack with Hungarian matching and an improved Kalman filter, giving ~2× faster tracking with no meaningful MOTA loss
 - **Audio-visual emotion recognition**: late-fusion Vision Transformer + audio Transformer, Log-Mel spectrograms, class-balanced focal loss, actor-disjoint validation
 - [**CryptOn Forecast**](https://cryptontradebot.com): LSTM-based autonomous trading and market-intelligence platform on Flask + AWS, used by 113+ people in 10 countries
-- [**magnetic_stirring_system**](https://github.com/simaygoktug/magnetic_stirring_system): Six-station lab stirrer with closed-loop PID speed / temperature control on Raspberry Pi and a Flask / React web UI
+- [**magnetic_stirring_system**](https://github.com/simaygoktug/magnetic_stirring_system): Six-station lab stirrer with closed-loop PID speed / temperature control on Raspberry Pi, with MATLAB PID tuning
 - [**embedded_programming_stm32**](https://github.com/simaygoktug/embedded_programming_stm32): Real-time STM32 firmware in C with FSM design, hardware timers and sensor I/O
 
 ### 💼 Experience
